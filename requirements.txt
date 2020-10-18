@@ -1,1 +1,6 @@
-$ pip freeze > requirements.txt
+pandas
+plotly-graph-objects
+dash
+dash-core-components
+dash-html-components
+dash-dependencies
